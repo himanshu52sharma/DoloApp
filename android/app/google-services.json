@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67227453713",
+    "project_id": "dolopatientapp-9fe5e",
+    "storage_bucket": "dolopatientapp-9fe5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67227453713:android:c1ba1df94bf3baec02e4b0",
+        "android_client_info": {
+          "package_name": "com.dolopatientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67227453713-uc7964u1rbsbn7f27qojeapgg8rgisrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAws6tzgtmmWPw2MOQASPe9Zh1Qu0d16vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67227453713-uc7964u1rbsbn7f27qojeapgg8rgisrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

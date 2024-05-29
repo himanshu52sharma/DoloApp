@@ -1,0 +1,278 @@
+{
+  "translation": {
+    "header": {
+      "your_profile": "आपकी प्रोफ़ाइल",
+      "settings": "सेटिंग्स",
+      "logout": "लॉग आउट"
+    },
+    "My Appointments":{
+      "Your Appointments":"आपकी नियुक्तियाँ",
+      "You have no appointments":"आपकी कोई नियुक्ति नहीं है",
+     "Search Doctor,Clinic":"डॉक्टर, क्लिनिक खोजें",
+     "Announcements":"उपयोगी जानकारी",
+     "Popular Doctors":"लोकप्रिय डॉक्टर",
+     "Book an Appointment":"अपॉइंटमेंट बुक करें",
+     "Your Token No.":"आपका टोकन नंबर",
+     "Now Consulting":"अब परामर्श",
+     "Favourite Doctors":"पसंदीदा डॉक्टर",
+     "View All":"सभी को देखें"
+    },
+    "About us":{
+      "screenTitle":"हमारे बारे में",
+      "Share App":"ऐप शेयर करें"
+    },
+    "TermsandConditions":{
+      "screenTitle":"नियम और शर्तें",
+      "TermsandConditions":"नियम और शर्तें"
+     
+    },
+    "Doctor List":{
+      "screenTitle":"डॉक्टर सूची",
+   
+      "Search Doctor,Clinic":"डॉक्टर, क्लिनिक खोजें",
+      "Book Appointment":"अपॉइंटमेंट बुक करें",
+      "No Doctor Found":"कोई डॉक्टर नहीं मिला"
+    },
+    "Doctor Profile":{
+      "screenTitle":"डॉक्टर प्रोफाइल",
+      "Clinic Address":"क्लिनिक का पता",
+      "Qualification":"योग्यता",
+      "Consultation Fees":"परामर्श शुल्क",
+      "Speciality":"स्पेशलिटी",
+      "Facilities":"सुविधाएँ",
+      "Book Appointment":"अपॉइंटमेंट बुक करें",
+      "Rate Doctor":"दर डॉक्टर",
+      "Timings":"समय",
+      "years": "सालों का",
+      "experience": "अनुभव",
+      "Accept Online":"ऑनलाइन स्वीकार",
+      "Pay At Clinic":"क्लिनिक पर भुगतान करें",
+      "Announcements":"घोषणाएँ",
+      "Leave a Comment":"अपनी समीक्षा सबमिट करें",
+      "All Comments":"सभी टिप्पणियाँ",
+      "Map Location":"नक्शा स्थान",
+      "statusUpdated": "पसंदीदा में सफलतापूर्वक जोड़ा गया",
+      "somethingWentWrong": "कुछ गलत हो गया",
+      "Morning": "सुबह",
+      "Evening": "शाम",
+      "Sunday": "रविवार",
+      "Monday": "सोमवार",
+      "Tuesday": "मंगलवार",
+      "Wednesday": "बुधवार",
+      "Thursday": "गुरुवार",
+      "Friday": "शुक्रवार",
+      "Saturday": "शनिवार",
+      "Close":"बंद"
+    },
+    "doctorHome": {
+      "screenTitle": "मुख्य पृष्ठ",
+      "walkIn": "मरीजों की सूची आज",
+      "available_now": "उपलब्ध ?",
+      "schedule": "मेरी अनुसूची",
+      "announcements": "घोषणाएं",
+      "noAnnouncement": "कोई घोषणा नहीं",
+      "manageAssistant": "सहायकों का प्रबंधन करें",
+      "feedback": "रोगियों की प्रतिक्रिया",
+      "payment": "भुगतान प्राप्त सूची",
+      "signOut": "लॉग आउट"
+    },
+    "assistantHome": {
+      "add_new_patient": "नया मरीज जोड़ें",
+      "patients_queue": "मरीजों की कतार",
+      "upload_prescription": "नुस्खा अपलोड करें",
+      "engagement_status": "संलग्न स्थिति",
+      "available_now": "उपलब्ध ?",
+      "statusUpdated": "स्थिति सफलतापूर्वक अपडेट की गई",
+      "somethingWentWrong": "कुछ गलत हो गया"
+    },
+    "settings": {
+      "screenTitle": "सेटिंग्स",
+      "change_language": "ऐप की भाषा बदलें",
+      "english": "अंग्रेज़ी",
+      "hindi": "हिंदी"
+    },
+    "patientQueue": {
+      "screenTitle": "मरीजों की कतार",
+    
+      "morning": "सुबह",
+      "evening": "शाम"
+    },
+    "engaementStatus": {
+      "screenTitle": "संलग्न स्थिति",
+    
+      "morning": "सुबह",
+      "evening": "शाम"
+    },
+    "uploadPrescription": {
+      "screenTitle": "नुस्खा अपलोड करें",
+    
+      "morning": "सुबह",
+      "evening": "शाम"
+    },
+    "todayAppointment": {
+      "screenTitle": "आज की नियुक्तियाँ",
+    
+      "morning": "सुबह",
+      "evening": "शाम"
+    },
+    "MyFavouriteDoctors":{
+      "screenTitle":"मेरे पसंदीदा डॉक्टर"
+     
+    },
+    "login": {
+      "screenTitle": "स्वागत !",
+      "New to the app?":"क्या आप ऐप के लिए नए हैं?",
+      "Register":"पंजीकरण करवाना",
+      "doctor": "चिकित्सक",
+      "assistant": "सहायक",
+      "email": "ईमेल आईडी",
+      "password": "पासवर्ड",
+      "forgot": "याद नहीं ?",
+      "login": "लॉग इन करें",
+      "dont_have_account": "क्या आप ऐप में नए हैं ?",
+      "register": "पंजीकरण करे",
+      "loginSuccess": "सफलतापूर्वक लॉग इन किया गया",
+      "loginFailed1": "अमान्य ईमेल या पासवर्ड",
+      "loginFailed2": "आपका खाता अभी तक सक्रिय नहीं किया गया है"
+    },
+    "register": {
+      "screenTitle": "हमसे जुड़ें !",
+      "screenSubTitle": "आरंभ करने के लिए एक निःशुल्क खाता खोलें",
+      "name": "नाम",
+      "email": "ईमेल आईडी",
+      "mobile": "मोबाइल न.",
+      "referral": "रेफरल कोड",
+      "register": "पंजीकरण करे",
+      "proceed": "आगे बढे",
+      "enterValidNo": "कृपया एक मान्य फोन नंबर दर्ज करें",
+      "otpSent": "ओटीपी सफलतापूर्वक भेजा गया",
+      "registerSuccess": "पंजीकरण सफल",
+      "somethingWentWrong": "कुछ गलत हो गया",
+      "verifyMob": "मोबाइल नंबर सत्यापित करें"
+    },
+    "forgot": {
+      "screenTitle": "पासवर्ड भूल गए",
+      "screenSubTitleforEmail": "अपना पासवर्ड रीसेट करने के लिए अपना पंजीकृत ईमेल पता दर्ज करें",
+      "screenSubTitleforMob": "अपना पासवर्ड रीसेट करने के लिए अपना पंजीकृत मोबाइल नंबर दर्ज करें",
+      "emailPlaceholder": "अपनी ईमेल आईडी दर्ज करें",
+      "mobPlaceholder": "अपना मोबाइल नंबर दर्ज करें",
+      "emailHelper": "अमान्य ईमेल आईडी",
+      "mobHelper": "मोबाइल नंबर 10 अंकों से अधिक नहीं होना चाहिए!",
+      "askEmail": "इसके बजाय ईमेल आईडी का प्रयोग करें?",
+      "askMob": "इसके बजाय मोबाइल नंबर का प्रयोग करें?",
+      "otpEmail": "ओटीपी भेजा गया",
+      "otpMob": "पर ओटीपी भेजा गया !",
+      "otpHelper": "अमान्य ओटीपी",
+      "enterPassword": "अपना नया पासवर्ड दर्ज करें",
+      "passwordHelper": "पासवर्ड कम से कम 8 अंकों का होना चाहिए!",
+      "confirmPassword": "अपने नए पासवर्ड की पुष्टि करें",
+      "confirmHelper": "पासवर्ड मैच नहीं कर रहा है !",
+      "changePassword": "पासवर्ड बदलें",
+      "changedSuccessfully": "पासवर्ड सफलतापूर्वक बदला गया",
+      "change": "बदले ?",
+      "verify": "सत्यापित करे",
+      "newPass": "नया पासवर्ड",
+      "confirmPass": "पासवर्ड की पुष्टि कीजिये"
+    },
+    "appointmentList": {
+      "past": "पिछले",
+      "today": "आज के",
+      "upcoming": "आगामी",
+      "appointments": "अपॉइंटमेंट",
+      "noAppointments": "आज कोई अपॉइंटमेंट नहीं"
+    },
+    "scheduleScreen": {
+      "screenTitle": "मेरे अनुसूची",
+      "jan": "जनवरी",
+      "feb": "फरवरी",
+      "mar": "मार्च",
+      "apr": "अप्रैल",
+      "may": "मई",
+      "jun": "जून",
+      "jul": "जुलाई",
+      "aug": "अगस्त",
+      "sep": "सितंबर",
+      "oct": "अक्टूबर",
+      "nov": "नवंबर",
+      "dec": "दिसंबर",
+      "mon": "सोम",
+      "tue": "मंगल",
+      "wed": "बुध",
+      "thu": "गुरु",
+      "fri": "शुक्र",
+      "sat": "शनि",
+      "sun": "रवि",
+      "morning": "सुबह",
+      "evening": "शाम",
+      "token": "टोकन",
+      "name": "नाम",
+      "category": "श्रेणी",
+      "noSchedule": "चयनित समय पर कोई अपॉइंटमेंट नहीं"
+    },
+    "flashScreen": {
+      "screenTitle": "अपनी घोषणा दर्ज करें",
+      "enterMsg": "अपना संदेश दर्ज करें",
+      "submit": "जमा करें",
+      "updatedSuccess": "घोषणा सफलतापूर्वक अपडेट की गई",
+      "List":"घोषणाओं की सूची"
+    },
+   
+    "languagepage":{
+      "Choose your Language":"अपनी भाषा चुनिए",
+      "Welcome!":"स्वागत है !",
+      "English":"अंग्रेज़ी",
+      "Hindi":"हिन्दी",
+      "NEXT":"अगला पृष्ठ"
+    },
+    "mobile":{
+      "Login":"लॉगइन",
+      "Enter Your Mobile Number":"अपना मोबाइल नंबर दर्ज करें",
+      "SUBMIT":"सबमिट",
+      "Continue":"जारी रखें"
+    },
+    "otpscreen":{
+      "OTP":"ओटीपी",
+      "OTP sent to +91-":"दिया गया नंबर +91",
+      "Verify":"सत्यापन",
+      "Resend Otp?":"ओटीपी पुनः भेजें ?"
+   },
+    "Tab":{
+      "Home":"होम",
+      "Profile":"प्रोफाइल",
+      "Doctors":"चिकित्सक"
+  },
+  "Category":{
+    "SELECT CATEGORY":"श्रेणी का चयन करें",
+    "INDIA":"भारत",
+    "Dark Theme":"डार्क थीम",
+    "Change Language":"भाषा बदलें"
+
+  },
+  "profile":{
+    "Personal Details":"व्यक्तिगत विवरण",
+    "Patient Profile": "रोगी का प्रोफाइल",
+    "Welcome":"स्वागत",
+    "Weight":"वज़न",
+    "Mob":"मोबाइल",
+    "location":"जगह",
+    "Name":"नाम",
+    "Email":"ईमेल",
+    "Gender":"लिंग",
+    "Male":"पुरुष",
+    "Female":"महिला",
+    "Phone":"फ़ोन",
+    "Aadhar No.":"आधार न.",
+    "Age":"आयु",
+    "Date of Birth":"जन्म की तारीख",
+    "Address":"पता",
+    "Update Profile":"प्रोफ़ाइल अपडेट करें",
+    "Appointment History":"नियुक्ति इतिहास"
+  },
+  "PatientHistory":{
+    "Patient History":"रोगी इतिहास"
+  }
+
+
+   
+  }
+}

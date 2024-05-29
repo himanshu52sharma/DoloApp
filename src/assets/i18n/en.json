@@ -1,0 +1,277 @@
+{
+  "translation": {
+    "header": {
+      "your_profile": "Your Profile",
+      "settings": "Settings",
+      "logout": "Logout"
+    },
+    "My Appointments":{
+      "Your Appointments":"Your Appointments",
+      "You have no appointments":"You have no appointments",
+     "Search Doctor,Clinic":"Search Doctor,Clinic",
+     "Announcements":"Useful Info.",
+     "Popular Doctors":"Popular Doctors",
+     "Book an Appointment":"Book an Appointment",
+     "Your Token No.":"Your Token No.",
+     "Now Consulting":"Now Consulting",
+     "Favourite Doctors":"Favorite Doctors",
+     "View All":"View All"
+    
+    },
+    "About us":{
+      "screenTitle":"About us",
+      "Share App":"Share App"
+    },
+    "TermsandConditions":{
+      "screenTitle":"TermsandConditions",
+      "TermsandConditions":"T&C"
+     
+    },
+    "Doctor List":{
+      "screenTitle":"Doctor List",
+      
+      "Search Doctor,Clinic":"Search Doctor,Clinic",
+      "Book Appointment":"Book Appointment",
+      "No Doctor Found":"No Doctor Found"
+    },
+    "Doctor Profile":{
+      "screenTitle":"Doctor Profile",
+      "Clinic Address":"Clinic Address",
+      "Qualification":"Qualification",
+      "Consultation Fees":"Consultation Fees",
+      "Speciality":"Specialty",
+      "Facilities":"Facilities",
+      "Book Appointment":"Book Appointment",
+      "Rate Doctor":"Rate Doctor",
+      "Timings":"Timings",
+      "years": "years",
+      "experience": "experience",
+      "Accept Online":"Accept Online",
+      "Pay At Clinic":"Pay At Clinic",
+      "Announcements":"Announcements",
+      "Leave a Comment":"Submit your review",
+      "All Comments":"All Comments",
+      "Map Location":"Map Location",
+      "statusUpdated": "Successfully Updated",
+      "somethingWentWrong": "Something went wrong",
+      "Morning": "Morning",
+      "Evening": "Evening",
+      "Sunday": "Sunday",
+      "Monday": "Monday",
+      "Tuesday": "Tuesday",
+      "Wednesday": "Wednesday",
+      "Thursday": "Thursday",
+      "Friday": "Friday",
+      "Saturday": "Saturday",
+      "Close":"Close"
+    
+    },
+    "Appointment Booking":{
+      "screenTitle":"Appointment Booking"
+     
+    },
+    "MyFavouriteDoctors":{
+      "screenTitle":"My Favorite Doctors"
+     
+    },
+
+    "doctorHome": {
+      "screenTitle": "Home",
+      "walkIn": "Walk In patients today",
+      "available_now": "Available Now",
+      "schedule": "My Schedule",
+      "announcements": "Announcements",
+      "noAnnouncement": "No\nAnnouncement",
+      "manageAssistant": "Manage Assistant",
+      "feedback": "Patient feedback",
+      "payment": "Payment received",
+      "signOut": "Log Out"
+    },
+    "assistantHome": {
+      "add_new_patient": "Add New Patient",
+      "patients_queue": "Patient's queue",
+      "upload_prescription": "Upload Prescription",
+      "engagement_status": "Engagement Status",
+      "available_now": "Available Now",
+      "statusUpdated": "Status Updated Successfully",
+      "somethingWentWrong": "Something went wrong"
+    },
+    "settings": {
+      "screenTitle": "Settings",
+      "change_language": "Change App Language",
+      "english": "English",
+      "hindi": "Hindi"
+    },
+    "login": {
+      "screenTitle": "Welcome !",
+      "New to the app?":"New to the app?",
+      "Register":"Register",
+      "doctor": "Doctor",
+      "assistant": "Assistant",
+      "email": "Email ID",
+      "password": "Password",
+      "forgot": "Forgot ?",
+      "login": "Login",
+      "dont_have_account": "New to the app?",
+      "register": "Register"
+    
+    },
+    "register": {
+      "screenTitle": "Join Us !",
+      "screenSubTitle": "Open a free account to get started",
+      "name": "Name",
+      "email": "Email",
+      "mobile": "Mobile No.",
+      "register": "Register",
+      "referral": "Referral Code",
+      "proceed": "Proceed",
+      "enterValidNo": "Please enter a valid phone number",
+      "otpSent": "OTP sent successfully",
+      "registerSuccess": "Registration successful",
+      "somethingWentWrong": "Something went wrong",
+      "verifyMob": "Verify Mobile Number"
+    },
+    "forgot": {
+      "screenTitle": "Forgot Password",
+      "screenSubTitleforEmail": "Enter your registered email address to reset your password",
+      "screenSubTitleforMob": "Enter your registered mobile number to reset your password",
+      "emailPlaceholder": "Enter your email id",
+      "mobPlaceholder": "Enter your mobile number",
+      "emailHelper": "Invalid Email Id",
+      "mobHelper": "Mobile Number should not be more than 10 digits !",
+      "askEmail": "Use Email id instead ?",
+      "askMob": "Use Mobile Number instead ?",
+      "otpEmail": "OTP sent to ",
+      "otpMob": "OTP sent successfully",
+      "invalidOtp": "Invalid OTP !",
+      "enterPassword": "Enter your new password",
+      "passwordHelper": "Password must be atleast of 8 digits !",
+      "confirmPassword": "Confirm your new password",
+      "confirmHelper": "Password does not match !",
+      "changePassword": "Change Password",
+      "changedSuccessfully": "Password changed successfully !",
+      "change": "Change ?",
+      "verify": "Verify",
+      "newPass": "New Password",
+      "confirmPass": "Confirm Password"
+    },
+    "appointmentList": {
+      "past": "Past",
+      "today": "Today",
+      "upcoming": "Upcoming",
+      "appointments": "Appointments",
+      "noAppointments": "No Appointments here"
+    },
+    "scheduleScreen": {
+      "screenTitle": "My Schedule",
+      "jan": "January",
+      "feb": "February",
+      "mar": "March",
+      "apr": "April",
+      "may": "May",
+      "jun": "June",
+      "jul": "July",
+      "aug": "August",
+      "sep": "September",
+      "oct": "October",
+      "nov": "November",
+      "dec": "December",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat",
+      "sun": "Sun",
+      "morning": "Morning",
+      "evening": "Evening",
+      "token": "Token",
+      "name": "Name",
+      "category": "Category",
+      "noSchedule": "No appointments at selected time"
+    },
+    "flashScreen": {
+      "screenTitle": "Enter your announcement",
+      "enterMsg": "Enter your message",
+      "submit": "Submit",
+      "updatedSuccess": "Announcement updated successfully",
+      "List":"Announcements List"
+    },
+    "patientQueue": {
+      "screenTitle": "Patient Queue",
+    
+     "morning": "Morning",
+      "evening": "Evening"
+    },
+    "uploadPrescription": {
+      "screenTitle": "Upload Prescription",
+    
+     "morning": "Morning",
+      "evening": "Evening"
+    },
+    "todayAppointment": {
+      "screenTitle": "Today Appointments",
+    
+     "morning": "Morning",
+      "evening": "Evening"
+    },
+ 
+    "languagepage":{
+      "Choose your Language":" Choose your Language",
+      "Welcome!":"Welcome !",
+      "English":"English",
+      "Hindi":"Hindi",
+       "NEXT":"NEXT"
+    },
+    "mobile":{
+      "Login":"Login",
+      "Enter Your Mobile Number":"Enter Your Mobile Number",
+      "SUBMIT":"SUBMIT",
+      "Continue":"Continue"
+    },
+    "otpscreen":{
+      "OTP":"OTP",
+      "OTP sent to +91-":"OTP sent to +91-",
+      "Verify":"Verify",
+      "Resend Otp?":"Resend Otp?"
+    
+    },
+    "Tab":{
+    "Home":"Home",
+    "Profile":"Profile",
+    "Doctors":"Doctors"
+},
+"Category":{
+  "SELECT CATEGORY":"Select Category",
+  "INDIA":"INDIA",
+  "Dark Theme":"Dark Theme",
+  "Change Language":"Change Language"
+
+},
+"profile":{
+  "Personal Details": "Personal Details",
+  "Patient Profile": "Patient Profile",
+  "Welcome":"Welcome",
+  "Weight":"Weight",
+  "Mob":"Mob.",
+  "location":"Location",
+  "Name": "Name",
+  "Email": "Email",
+  "Gender":"Gender",
+  "Male":"Male",
+  "Female":"Female",
+  "Phone":"Phone",
+  "Aadhar No.":"Aadhar No.",
+  "Age":"Age",
+  "Date of Birth":"Date of Birth",
+  "Address":"Address",
+  "Update Profile":"Update Profile",
+  "Appointment History":"Appointment History"
+},
+"PatientHistory":{
+  "Patient History":"Patient History"
+}
+
+ 
+  }
+}
